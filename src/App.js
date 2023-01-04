@@ -47,7 +47,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className='text-center text-3xl font-bold uppercase mt-10'>Welcome to Tic Tac Game - 2022</h1>
+      <h1 className='text-center text-3xl font-bold text-rose-600 uppercase mt-10'>Welcome to Tic Tac Game - <span className='text-green-500'>2023</span></h1>
       <div className="board p-5 bg-slate-200 w-1/4 mx-auto mt-20">
 
         <div className=" mx-auto flex justify-between mb-6">
